@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7f45e6dd-9984-455a-87fd-db4f2212e148" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animal_classifier/settings.py" afterPath="$PROJECT_DIR$/animal_classifier/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="animal_classifier.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,7 +58,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/animal_classifier/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="46" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2431">
+            <state line="27" column="46" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2431">
               <folding />
             </state>
           </provider>
@@ -67,7 +67,7 @@
       <file leaf-file-name="requirements.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="23" selection-start="620" selection-end="620" vertical-scroll-proportion="0.85087717" vertical-offset="59" max-vertical-offset="646">
+            <state line="33" column="12" selection-start="633" selection-end="633" vertical-scroll-proportion="0.85087717" vertical-offset="76" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -244,13 +244,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/animal_classifier/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="46" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2431">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/animal/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="31" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3434">
@@ -260,9 +253,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/animal_classifier/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="46" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2431">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="23" selection-start="620" selection-end="620" vertical-scroll-proportion="0.85087717" vertical-offset="59" max-vertical-offset="646">
+        <state line="33" column="12" selection-start="633" selection-end="633" vertical-scroll-proportion="0.85087717" vertical-offset="76" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
