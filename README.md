@@ -8,7 +8,7 @@ Steps to get started
 
 1. Step one :
 
-git clone https://github.com/imanaspaul/Django-eCommerce-tutorial-manascode.git
+git clone https://github.com/makhloufi200/animal_classifier.git
 
 
 2. Step two :
