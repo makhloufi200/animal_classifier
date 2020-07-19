@@ -55,6 +55,30 @@ def define_model(request):
         data.append(np.array(resized_image))
         labels.append(3)
 
+    monkeys=os.listdir("media/monkey")
+    for monkey in monkeys:
+        imag=cv2.imread("media/monkey/"+monkey)
+        img_from_ar = Image.fromarray(imag, 'RGB')
+        resized_image = img_from_ar.resize((50, 50))
+        data.append(np.array(resized_image))
+        labels.append(4)
+
+    lions=os.listdir("media/Lion")
+    for lion in lions:
+        imag=cv2.imread("media/Lion/"+lion)
+        img_from_ar = Image.fromarray(imag, 'RGB')
+        resized_image = img_from_ar.resize((50, 50))
+        data.append(np.array(resized_image))
+        labels.append(5)
+
+    spinners=os.listdir("media/Spinner")
+    for spinner in spinners:
+        imag=cv2.imread("media/Spinner/"+spinner)
+        img_from_ar = Image.fromarray(imag, 'RGB')
+        resized_image = img_from_ar.resize((50, 50))
+        data.append(np.array(resized_image))
+        labels.append(6)
+
     #Since the “data” and “labels” are normal array , convert them to numpy arrays-
     animals=np.array(data)
     labels=np.array(labels)
@@ -108,7 +132,7 @@ def define_model(request):
     model.add(Flatten())
     model.add(Dense(500,activation="relu"))
     model.add(Dropout(0.2))
-    model.add(Dense(4,activation="softmax"))
+    model.add(Dense(7,activation="softmax"))
     model.summary()
 
     # compile the model
@@ -146,6 +170,12 @@ def get_animal_name(label):
         return "bird"
     if label==3:
         return "fish"
+    if label==4:
+        return "monkey"
+    if label==5:
+        return "lion"
+    if label==6:
+        return "spinner"
 
 def predict_animal(request,file):
     print("Predicting .................................")
