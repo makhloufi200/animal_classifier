@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f45e6dd-9984-455a-87fd-db4f2212e148" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7f45e6dd-9984-455a-87fd-db4f2212e148" name="Default" comment="" />
     <ignored path="animal_classifier.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="22" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+            <state line="28" column="22" selection-start="590" selection-end="590" vertical-scroll-proportion="0.79122806" vertical-offset="25" max-vertical-offset="595">
               <folding />
             </state>
           </provider>
@@ -64,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="requirements.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="12" selection-start="633" selection-end="633" vertical-scroll-proportion="0.85087717" vertical-offset="76" max-vertical-offset="663">
+            <state line="33" column="12" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -237,13 +234,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="22" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/animal/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="31" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3434">
@@ -262,7 +252,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="12" selection-start="633" selection-end="633" vertical-scroll-proportion="0.85087717" vertical-offset="76" max-vertical-offset="663">
+        <state line="33" column="12" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="22" selection-start="590" selection-end="590" vertical-scroll-proportion="0.79122806" vertical-offset="25" max-vertical-offset="595">
           <folding />
         </state>
       </provider>
