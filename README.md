@@ -24,3 +24,7 @@ py manage.py runserver
 
 5. step four:
 Open [http://localhost:8000]
+
+The source of the lesson approved in the project
+Follow the lesson well
+https://medium.com/@divyanshuDeveloper/a-simple-animal-classifier-from-scratch-using-keras-61ef0edfcb1f
