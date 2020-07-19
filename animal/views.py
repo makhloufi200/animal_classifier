@@ -21,35 +21,35 @@ def define_model(request):
     labels = []
 
     #Code for making images into array -
-    cats=os.listdir("cats")
+    cats=os.listdir("media/cats")
     for cat in cats:
         #print(cat)
-        imag = cv2.imread("cats/"+cat)
+        imag = cv2.imread("media/cats/"+cat)
         #print(imag)
         img_from_ar = Image.fromarray(imag)
         resized_image = img_from_ar.resize((50, 50))
         data.append(np.array(resized_image))
         labels.append(0)
 
-    dogs=os.listdir("dogs")
+    dogs=os.listdir("media/dogs")
     for dog in dogs:
-        imag=cv2.imread("dogs/"+dog)
+        imag=cv2.imread("media/dogs/"+dog)
         img_from_ar = Image.fromarray(imag, 'RGB')
         resized_image = img_from_ar.resize((50, 50))
         data.append(np.array(resized_image))
         labels.append(1)
 
-    birds=os.listdir("birds")
+    birds=os.listdir("media/birds")
     for bird in birds:
-        imag=cv2.imread("birds/"+bird)
+        imag=cv2.imread("media/birds/"+bird)
         img_from_ar = Image.fromarray(imag, 'RGB')
         resized_image = img_from_ar.resize((50, 50))
         data.append(np.array(resized_image))
         labels.append(2)
 
-    fishs=os.listdir("fishs")
+    fishs=os.listdir("media/fishs")
     for fish in fishs:
-        imag=cv2.imread("fishs/"+fish)
+        imag=cv2.imread("media/fishs/"+fish)
         img_from_ar = Image.fromarray(imag, 'RGB')
         resized_image = img_from_ar.resize((50, 50))
         data.append(np.array(resized_image))
