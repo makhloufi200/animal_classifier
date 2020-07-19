@@ -2,8 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f45e6dd-9984-455a-87fd-db4f2212e148" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animals.npy" afterPath="$PROJECT_DIR$/animals.npy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/labels.npy" afterPath="$PROJECT_DIR$/labels.npy" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Lion\Lion9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\Spinner\Spinner9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\media\monkey\m9.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animal/views.py" afterPath="$PROJECT_DIR$/animal/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -40,7 +106,7 @@
       <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/animal/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="177" column="23" selection-start="5912" selection-end="5919" vertical-scroll-proportion="0.17894737" vertical-offset="2907" max-vertical-offset="3944">
+            <state line="21" column="5" selection-start="638" selection-end="638" vertical-scroll-proportion="-1.3421053" vertical-offset="1122" max-vertical-offset="3944">
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -262,7 +328,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/animal/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="23" selection-start="5912" selection-end="5919" vertical-scroll-proportion="0.17894737" vertical-offset="2907" max-vertical-offset="3944">
+        <state line="21" column="5" selection-start="638" selection-end="638" vertical-scroll-proportion="-1.3421053" vertical-offset="1122" max-vertical-offset="3944">
           <folding>
             <element signature="e#0#64#0" expanded="true" />
           </folding>

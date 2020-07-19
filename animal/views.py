@@ -19,7 +19,7 @@ from django.views.generic import ListView, DeleteView, CreateView, UpdateView
 def define_model(request):
     data = []
     labels = []
-
+    #animals_list = ['cats','dogs','birds','fishs','monkeys','lions','']
     #Code for making images into array -
     cats=os.listdir("media/cats")
     for cat in cats:
@@ -55,25 +55,25 @@ def define_model(request):
         data.append(np.array(resized_image))
         labels.append(3)
 
-    monkeys=os.listdir("media/monkey")
+    monkeys=os.listdir("media/monkeys")
     for monkey in monkeys:
-        imag=cv2.imread("media/monkey/"+monkey)
+        imag=cv2.imread("media/monkeys/"+monkey)
         img_from_ar = Image.fromarray(imag, 'RGB')
         resized_image = img_from_ar.resize((50, 50))
         data.append(np.array(resized_image))
         labels.append(4)
 
-    lions=os.listdir("media/Lion")
+    lions=os.listdir("media/lions")
     for lion in lions:
-        imag=cv2.imread("media/Lion/"+lion)
+        imag=cv2.imread("media/lions/"+lion)
         img_from_ar = Image.fromarray(imag, 'RGB')
         resized_image = img_from_ar.resize((50, 50))
         data.append(np.array(resized_image))
         labels.append(5)
 
-    spinners=os.listdir("media/Spinner")
+    spinners=os.listdir("media/spinners")
     for spinner in spinners:
-        imag=cv2.imread("media/Spinner/"+spinner)
+        imag=cv2.imread("media/spinners/"+spinner)
         img_from_ar = Image.fromarray(imag, 'RGB')
         resized_image = img_from_ar.resize((50, 50))
         data.append(np.array(resized_image))
