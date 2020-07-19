@@ -2,101 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f45e6dd-9984-455a-87fd-db4f2212e148" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\birds\bird9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\cats\images9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\dogs\dog9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\smail\Desktop\animal_classifier\fishs\fish9.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Template/index.html" afterPath="$PROJECT_DIR$/Template/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animal/views.py" afterPath="$PROJECT_DIR$/animal/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="animal_classifier.iws" />
@@ -232,20 +137,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="animal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="animal_classifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="animal_classifier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -270,14 +161,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
