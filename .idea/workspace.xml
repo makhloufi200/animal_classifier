@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f45e6dd-9984-455a-87fd-db4f2212e148" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animal_classifier/settings.py" afterPath="$PROJECT_DIR$/animal_classifier/settings.py" />
     </list>
     <ignored path="animal_classifier.iws" />
@@ -37,7 +38,7 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/animal/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="31" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="3434">
+            <state line="51" column="31" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3434">
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -54,10 +55,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/animal_classifier/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="19" selection-start="844" selection-end="844" vertical-scroll-proportion="0.80526316" vertical-offset="0" max-vertical-offset="2431">
+            <state line="27" column="46" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2431">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="23" selection-start="620" selection-end="620" vertical-scroll-proportion="0.85087717" vertical-offset="59" max-vertical-offset="646">
               <folding />
             </state>
           </provider>
@@ -85,6 +95,7 @@
         <option value="$PROJECT_DIR$/Template/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/animal_classifier/settings.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -219,15 +230,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/animal/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="31" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="3434">
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Template/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="97" selection-start="942" selection-end="954" vertical-scroll-proportion="-13.730769" vertical-offset="102" max-vertical-offset="816">
@@ -244,7 +246,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/animal_classifier/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="19" selection-start="844" selection-end="844" vertical-scroll-proportion="0.80526316" vertical-offset="0" max-vertical-offset="2431">
+        <state line="27" column="46" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2431">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animal/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="31" selection-start="1626" selection-end="1626" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3434">
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="23" selection-start="620" selection-end="620" vertical-scroll-proportion="0.85087717" vertical-offset="59" max-vertical-offset="646">
           <folding />
         </state>
       </provider>
